@@ -40,8 +40,7 @@
 
 .app {
     background-color: alpha (@window_bg, 1);
-    /* border-color: ; */
-    border: 2px solid @window_border_color;
+    border: none;
     border-radius: 10px;
 }
 
